@@ -1,2 +1,2 @@
-# image-segmentation
-image segmentation for opencv (mask-rcnn inference), opencv gpu
+# mask-rcnn-opencv
+maks rcnn inference for opencv(gpu)
